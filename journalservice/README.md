@@ -33,7 +33,7 @@ This is a Spring Boot microservice responsible for journaling user-related event
 ### Steps:
 1. Clone the repo and navigate into it:
 ```bash
-git clone https://github.com/your-username/journalservice.git
+git clone https://github.com/rahulkumarcse102/JournalService/tree/main/journalservice
 cd journalservice
 ```
 
